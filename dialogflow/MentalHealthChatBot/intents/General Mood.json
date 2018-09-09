@@ -1,0 +1,45 @@
+{
+  "id": "d424b4cc-25ec-4cf7-8410-e2833f9190a3",
+  "name": "General Mood",
+  "auto": true,
+  "contexts": [
+    "GettingMood"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9e7969c0-69bc-4f96-ae21-f4f8e744edb7",
+          "required": true,
+          "dataType": "@moods",
+          "name": "moods",
+          "value": "$moods",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "How are you feeling right now?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You feeling $moods?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536177190,
+  "fallbackIntent": false,
+  "events": []
+}

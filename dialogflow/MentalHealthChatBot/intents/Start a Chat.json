@@ -1,0 +1,40 @@
+{
+  "id": "62fe6644-3560-469e-a435-84c3536cd11b",
+  "name": "Start a Chat",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "GettingFirstName",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Yes, I\u0027m here for you. What\u0027s your name?",
+            "Yes, go ahead. What\u0027s your name?",
+            "Yes, I\u0027m here to listen. What\u0027s your name?",
+            "Sure, go ahead. What\u0027s your name?",
+            "Sure, let\u0027s chat. What\u0027s your name?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535869587,
+  "fallbackIntent": false,
+  "events": []
+}

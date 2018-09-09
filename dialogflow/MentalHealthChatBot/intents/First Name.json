@@ -1,0 +1,49 @@
+{
+  "id": "5dd20d02-137b-4e4c-b25d-47595852c882",
+  "name": "First Name",
+  "auto": true,
+  "contexts": [
+    "GettingFirstName"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "GettingMood",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "6826089d-4cd5-4440-bee3-14934af1d73c",
+          "required": true,
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Nice to meet you, $given-name. How are you feeling today?",
+            "Hi, $given-name. How\u0027s it going today?",
+            "Hi, $given-name. Everything going okay today?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535843784,
+  "fallbackIntent": false,
+  "events": []
+}

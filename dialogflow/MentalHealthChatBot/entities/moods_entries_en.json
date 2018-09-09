@@ -1,0 +1,58 @@
+[
+  {
+    "value": "low",
+    "synonyms": [
+      "sad",
+      "down",
+      "depressed",
+      "blue",
+      "beat",
+      "crap",
+      "crappy",
+      "shitty",
+      "not so great",
+      "awful",
+      "low",
+      "lousy",
+      "not so hot",
+      "bummed out",
+      "not very good",
+      "bad",
+      "horrible",
+      "meh",
+      "i\u0027ve been better",
+      "I need help",
+      "not good",
+      "not great",
+      "crappy",
+      "burnt out",
+      "tired"
+    ]
+  },
+  {
+    "value": "high",
+    "synonyms": [
+      "happy",
+      "up",
+      "good",
+      "super",
+      "fantastic",
+      "great",
+      "excellent",
+      "high",
+      "solid"
+    ]
+  },
+  {
+    "value": "neutral",
+    "synonyms": [
+      "neutral",
+      "okay",
+      "not bad",
+      "decent",
+      "normal",
+      "fine",
+      "not sure"
+    ]
+  }
+]

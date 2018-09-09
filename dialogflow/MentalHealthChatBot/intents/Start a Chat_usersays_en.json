@@ -1,0 +1,86 @@
+[
+  {
+    "id": "f0596101-af43-4d20-a74d-96e150d6f133",
+    "data": [
+      {
+        "text": "Let\u0027s talk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535843543
+  },
+  {
+    "id": "5db98975-22b6-4dcc-b013-54c3fff18d40",
+    "data": [
+      {
+        "text": "Let\u0027s chat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535843543
+  },
+  {
+    "id": "dbca7c29-e50b-4b0e-9ee4-85bcdecfbc93",
+    "data": [
+      {
+        "text": "Can I talk to you about something?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535838384
+  },
+  {
+    "id": "86ec8702-3611-4c01-bd06-be67b640c64c",
+    "data": [
+      {
+        "text": "I\u0027d like to talk to someone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535838384
+  },
+  {
+    "id": "b3f1eaa9-ea8f-4aac-9edc-e7717488950c",
+    "data": [
+      {
+        "text": "I\u0027d like to talk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535838384
+  },
+  {
+    "id": "a5436fce-8a53-470d-b52e-96afa66e190b",
+    "data": [
+      {
+        "text": "I need to talk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535838384
+  },
+  {
+    "id": "cb6c0afd-d0f1-45b3-b4af-adfba6f81078",
+    "data": [
+      {
+        "text": "Can we talk?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535838384
+  }
+]

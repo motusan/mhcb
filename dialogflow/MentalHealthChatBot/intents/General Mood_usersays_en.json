@@ -1,0 +1,284 @@
+[
+  {
+    "id": "77f95776-ceab-4102-8f36-c9945ec32d36",
+    "data": [
+      {
+        "text": "Crappy",
+        "alias": "moods",
+        "meta": "@moods",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536177190
+  },
+  {
+    "id": "a973da1a-2dae-410e-85ac-04a63291b1ca",
+    "data": [
+      {
+        "text": "Awful",
+        "alias": "moods",
+        "meta": "@moods",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536177190
+  },
+  {
+    "id": "df117a2f-c90d-42c7-aab1-f094616ddad5",
+    "data": [
+      {
+        "text": "Poor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536177190
+  },
+  {
+    "id": "95722102-7349-456a-9922-66a68a7c211b",
+    "data": [
+      {
+        "text": "Not ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "alias": "moods",
+        "meta": "@moods",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536177190
+  },
+  {
+    "id": "642136b0-4cc1-499b-9f5e-ff447a98a74b",
+    "data": [
+      {
+        "text": "Not so good",
+        "alias": "moods",
+        "meta": "@moods",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536177190
+  },
+  {
+    "id": "f3d03a4b-ed3d-4468-a853-6ca8dacaccd3",
+    "data": [
+      {
+        "text": "pretty ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "alias": "moods",
+        "meta": "@moods",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7e7bc2cd-2b2d-4930-9b4f-2997ec88dfbb",
+    "data": [
+      {
+        "text": "not sure",
+        "alias": "moods",
+        "meta": "@moods",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c4ef42b1-c3d2-4221-a7ac-0fa82c161d09",
+    "data": [
+      {
+        "text": "ok",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ac76c704-002b-4aa8-a345-c59fc5a1fa60",
+    "data": [
+      {
+        "text": "really ",
+        "userDefined": false
+      },
+      {
+        "text": "bad",
+        "alias": "moods",
+        "meta": "@moods",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "6dbf195c-8a08-43d4-9fa6-c51fd111b174",
+    "data": [
+      {
+        "text": "bad",
+        "alias": "moods",
+        "meta": "@moods",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b92b4e34-e574-499b-a3fd-5da8b45ac9d2",
+    "data": [
+      {
+        "text": "help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0bfd8437-d15d-4d66-abe1-3a84d3c19305",
+    "data": [
+      {
+        "text": "Pretty ",
+        "userDefined": false
+      },
+      {
+        "text": "lousy",
+        "alias": "moods",
+        "meta": "@moods",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535843712
+  },
+  {
+    "id": "d117996a-0b76-4229-a122-e73edc4cfa87",
+    "data": [
+      {
+        "text": "Not very good",
+        "alias": "moods",
+        "meta": "@moods",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535843284
+  },
+  {
+    "id": "e2dabb12-32dd-46bb-8367-1460b5bcadcf",
+    "data": [
+      {
+        "text": "Feeling pretty ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "alias": "moods",
+        "meta": "@moods",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535842829
+  },
+  {
+    "id": "e75dfbcc-5e3d-435e-a9f7-d0d250ed83a6",
+    "data": [
+      {
+        "text": "Bummed out",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535842829
+  },
+  {
+    "id": "9097aa21-bfb5-4a75-bcb9-a08dd5cac453",
+    "data": [
+      {
+        "text": "I\u0027m ",
+        "userDefined": false
+      },
+      {
+        "text": "depressed",
+        "alias": "moods",
+        "meta": "@moods",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535842829
+  },
+  {
+    "id": "cfcb110f-3aa2-4934-8cd7-1d2ffe6e8c19",
+    "data": [
+      {
+        "text": "Feeling kinda ",
+        "userDefined": false
+      },
+      {
+        "text": "down",
+        "alias": "moods",
+        "meta": "@moods",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535842829
+  }
+]
